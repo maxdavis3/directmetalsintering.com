@@ -709,3 +709,17 @@ section { padding:8rem 0; }
   border: 1px solid rgba(231, 76, 60, 0.4);
   color: #e74c3c;
 }
+
+/* ===== SITE THEME: Magenta Fire ===== */
+:root {
+    --primary: #e879f9;
+    --primary-dark: #d946ef;
+    --accent: #c084fc;
+    --bg-dark: #150517;
+    --bg-darker: #0d0311;
+    --bg-card: #1e0828;
+    --font-heading: 'Barlow Condensed', sans-serif;
+    --font-body: 'Mulish', sans-serif;
+}
+.site-header { background: rgba(21,5,23,0.85); }
+h1,h2,h3,h4,h5,h6 { letter-spacing:0.07em; }
